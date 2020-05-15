@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(x)
-  !x % 3 == 0 
+  x % 2 == 0 
 end
